@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\source\repos\SandQuarry\bin\Debug\netcoreapp3.1\SandQuarry.exe
+C:\Users\Дмитрий\source\repos\SandQuarry\bin\Debug\netcoreapp3.1\SandQuarry.deps.json
+C:\Users\Дмитрий\source\repos\SandQuarry\bin\Debug\netcoreapp3.1\SandQuarry.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\SandQuarry\bin\Debug\netcoreapp3.1\SandQuarry.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\SandQuarry\bin\Debug\netcoreapp3.1\SandQuarry.dll
+C:\Users\Дмитрий\source\repos\SandQuarry\bin\Debug\netcoreapp3.1\SandQuarry.pdb
+C:\Users\Дмитрий\source\repos\SandQuarry\obj\Debug\netcoreapp3.1\SandQuarry.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\SandQuarry\obj\Debug\netcoreapp3.1\SandQuarry.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\SandQuarry\obj\Debug\netcoreapp3.1\SandQuarry.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\SandQuarry\obj\Debug\netcoreapp3.1\SandQuarry.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\SandQuarry\obj\Debug\netcoreapp3.1\SandQuarry.dll
+C:\Users\Дмитрий\source\repos\SandQuarry\obj\Debug\netcoreapp3.1\SandQuarry.pdb
+C:\Users\Дмитрий\source\repos\SandQuarry\obj\Debug\netcoreapp3.1\SandQuarry.genruntimeconfig.cache
